@@ -5,6 +5,12 @@ I was assigned by a tourist company to undergo an analysis of the crime activiti
 
 # Executive Summary
 
+In this project, I was successfully able to analyse the crime data from Los Angeles to indetify patterns and trends that could help to identify the best route for tourists. Intially, I began with cleaning the data, finding null and missing values and converting columns like date occured into many different columns to expand my analysis. 
+
+After completing the main stage, I began to work towards the exploratory data analysis (EDA), where I could investigate crime patterns based on factors such as by crime types, area, sex of the victtim, weapon used. Visualisations tools such as Matplotlib and Pandas made analysing the patterns more easier.
+
+My analysis focused on identifying when and where crimes were occuring the most frequently and which types of crimes were occuring less. These findings could help to provide a clearer understanding of crime patterns from a tourism perspective as it requires careful planning for the saftey of the tourist. 
+
 # Datasets
 
 Data has been extracted from Kaggle
