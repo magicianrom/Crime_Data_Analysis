@@ -41,7 +41,7 @@ Recommendations -
 
 # 💡 Areas for Further Research
 
-I would need to improvr the visualizations by using Python Geomaps and find more recent data. 
+I would need to improve the visualizations by using Python Geomaps and find more recent data. 
 
 # 🔗 Sources 
 
