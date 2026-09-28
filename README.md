@@ -11,14 +11,14 @@ After completing the main stage, I began to work towards the exploratory data an
 
 My analysis focused on identifying when and where crimes were occuring the most frequently and which types of crimes were occuring less. These findings could help to provide a clearer understanding of crime patterns from a tourism perspective as it requires careful planning for the saftey of the tourist. 
 
-# Table of contents
+# 📋 Table of contents
 
 | File | Description |
 |---|---|
 | `README.md` | Project documentation, problem statement, and executive summary |
-| `notebook/.pynb` | Completed Notebook with EDA and Anlaysis |
+| `notebook/.pynb` | Completed notebook with EDA and Anlaysis |
 | `data/Crime_Data_from_2020_to_Present.csv` | Original Dataset |
-| `data/updatedCrimes.csv` | Final cleaned dataset with engineered features |
+| `data/updatedCrimes.csv` | Final cleaned dataset with new cleaning and columns |
 | `presentation/.pdf` | Final project presentation |
 
 # 🗂️ Datasets
@@ -26,7 +26,7 @@ My analysis focused on identifying when and where crimes were occuring the most 
 Data has been extracted from Kaggle
 
 https://www.kaggle.com/datasets/ishajangir/crime-data
- 
+
 # 🏁 Conclusion and Recommedations
 
 The dataset has limitations for this analysis, as crime trends can change over time due to various factors. Additionally, a more recent and complete dataset would be helpful for providing a better understanding of reported crime patterns across Los Angeles.
@@ -38,6 +38,10 @@ Recommendations -
 2 - Area and Location - Consider areas and locations such as Foothill and 2400 S Signal St, as they had some of the lowest reported crime levels in the dataset. 
 
 3 - Time of the day - Based on the dataset, Night had the fewest reported crimes. This could be considered when planning the timing of tourist activities and routes. 
+
+# 💡 Areas for Further Research
+
+I would need to improvr the visualizations by using Python Geomaps and find more recent data. 
 
 # 🔗 Sources 
 
