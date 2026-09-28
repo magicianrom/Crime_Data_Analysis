@@ -11,6 +11,16 @@ After completing the main stage, I began to work towards the exploratory data an
 
 My analysis focused on identifying when and where crimes were occuring the most frequently and which types of crimes were occuring less. These findings could help to provide a clearer understanding of crime patterns from a tourism perspective as it requires careful planning for the saftey of the tourist. 
 
+# Table of contents
+
+| File | Description |
+|---|---|
+| `README.md` | Project documentation, problem statement, and executive summary |
+| `notebook/.pynb` | Completed Notebook with EDA and Anlaysis |
+| `data/Crime_Data_from_2020_to_Present.csv` | Original Dataset |
+| `data/updatedCrimes.csv` | Final cleaned dataset with engineered features |
+| `presentation/.pdf` | Final project presentation |
+
 # 🗂️ Datasets
 
 Data has been extracted from Kaggle
