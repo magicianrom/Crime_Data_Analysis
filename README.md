@@ -1,24 +1,69 @@
 # Crime_Data_Analysis
-This dataset contains detailed records of crimes reported across various regions from 2020 to the present. It provides valuable insights into crime trends, patterns, and changes in crime rates over time.
 
 # Problem Scenario
 I was assigned by a tourist company to undergo an analysis of the crime activities occurring over Los Angeles, as they would like to monitor safety restrictions to adjust their routes over the city. As in the recent years, crime has declined since 2023 and they would like to know which locations and areas would be a lot safer for new visitors.
+
+# Executive Summary
+
+# Datasets
+
+Data has been extracted from Kaggle
+
+https://www.kaggle.com/datasets/ishajangir/crime-data
  
-# Objectives:
+# Conclusion and Recommedations
 
-1 - Identify the most common crimes reported in Los Angeles.
+In conclusion, I would the dataset is limited to my research as trends over violent criminals differ over time, based on their behavoir, reason and condition. Additionly, a more recent  dataset would be helpful.
 
-2 - Examine how crime varies by time, including month, day, and time of day.
+Recommendations -
 
-3 - Analyse victim demographics across crimes reported.
+1 - Review datasets - As the dataset does not contain a full year of data for 2025, I recommend validating these findings with updated crime data before planning on final decisions.
 
-4 - Determine which areas experience the highest number of reported crimes.
+2 - Area and Location - Consider areas and locations such as Foothill and 2400 S Signal St, as they had some of the lowest reported crime levels in the dataset. 
 
-5 - Status of the crime when it was commited
+3 - Time of the day - Based on the dataset, Night had the fewest reported crimes. This could be considered when planning the timing of tourist activities and routes. 
 
-6 - Weapons reported used during the crime
+# Sources 
 
-7 - Investigate where and when fewer crimes are most frequently reported.
+https://roadgenius.com/statistics/tourism/usa/california/los-angeles/
 
-8 - Deeper Analysis
+https://tourism.lacity.gov/about
+
+# Visualizations 
+
+Crime Trends - Yearly Patterns 
+
+<img width="550" height="413" alt="image" src="https://github.com/user-attachments/assets/614655c2-1b7f-4ecb-a32a-a8d7f3975989" />
+
+Crime Type - Category Patterns 
+
+<img width="668" height="295" alt="image" src="https://github.com/user-attachments/assets/f35ebe53-c9d1-4982-b079-aaec687e49bc" />
+
+When Does Crime Occur? - Daily Patterns 
+
+<img width="460" height="389" alt="image" src="https://github.com/user-attachments/assets/0834b9b7-78e0-4bea-91e4-044c6827998c" />
+
+ When Does Crime Occur? - Calendar Patterns 
+
+<img width="455" height="344" alt="image" src="https://github.com/user-attachments/assets/9cb53d12-543b-43e9-a86c-e3773338e6c2" />
+
+Victim Sex - Demographic Patterns 
+
+<img width="475" height="398" alt="image" src="https://github.com/user-attachments/assets/31f590b1-5a81-4eef-a697-311c8ff7522f" />
+
+Where Does Crime Occur? - Area Patterns 
+
+<img width="575" height="418" alt="image" src="https://github.com/user-attachments/assets/3237174d-7dc2-4f5b-ab70-a4feb08ea046" />
+
+Where Are Reported Crime Levels Lower? 
+
+<img width="495" height="361" alt="image" src="https://github.com/user-attachments/assets/ca236c0b-e867-4ed5-9a4e-38914757e8cf" />
+
+# Deep Analysis
+
+This graph compares the number of reported crimes across different times of the day and shows which crime types are most frequently reported during each period. 
+
+<img width="946" height="411" alt="image" src="https://github.com/user-attachments/assets/fa7c3746-ac1b-44e3-9269-05a213fd4ed0" />
+
+
 
