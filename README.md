@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/ishajangir/crime-data
  
 # Conclusion and Recommedations
 
-In conclusion, I would the dataset is limited to my research as trends over violent criminals differ over time, based on their behavoir, reason and condition. Additionly, a more recent  dataset would be helpful.
+The dataset has limitations for this analysis, as crime trends can change over time due to various factors. Additionally, a more recent and complete dataset would be helpful for providing a better understanding of reported crime patterns across Los Angeles.
 
 Recommendations -
 
